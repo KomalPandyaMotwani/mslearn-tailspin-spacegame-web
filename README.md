@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/KomalPandyaOrganization/SmartHotel360/_apis/build/status/KomalPandyaMotwani.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/KomalPandyaOrganization/SmartHotel360/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
